@@ -1,0 +1,7 @@
+Maps contains the data of different cities from openmap.
+
+resources contains some picture icons used in the map
+
+src contains all the functions for implementing
+
+tests are some unit test wrote during the project
