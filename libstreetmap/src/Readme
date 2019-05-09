@@ -1,0 +1,13 @@
+This project is consist of four milestones, each one uses different source file
+
+MILESTONE 1:
+  Cogintion of basic components.(intersections,segments,streets)
+  
+MILESTONE 2:
+  Graphics. We use ezgl to implement the graphic.
+  
+MILESTONE 3:
+  Path-finding. We used A* to find the route and Mahanttan distacne as heuristics.
+  
+MILESTONE 4:
+  Courier problem. Try to find the best solution for a problem which is similar to Saleman's Problem.
